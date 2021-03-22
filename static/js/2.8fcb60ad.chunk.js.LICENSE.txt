@@ -4,6 +4,8 @@ object-assign
 @license MIT
 */
 
+/*! npm.im/intervalometer */
+
 /** @license React v0.20.1
  * scheduler.production.min.js
  *
